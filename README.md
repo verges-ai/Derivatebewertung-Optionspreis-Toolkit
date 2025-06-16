@@ -40,9 +40,11 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 
 ---
 
+## 📂 Projektstruktur
+
 ## 🌍 Live Demo
 
-👉 [Click here to open the app](https://your-app-name.streamlit.app)
+👉 [Click here to open the app]([https://your-app-name.streamlit.app](https://derivatebewertung-optionspreis-toolkit-yrcluupfaztaaxgwudshfu.streamlit.app/))
 
 
 

@@ -1,0 +1,5 @@
+# Abhängigkeiten
+streamlit
+numpy
+scipy
+

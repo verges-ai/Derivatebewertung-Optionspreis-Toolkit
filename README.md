@@ -37,3 +37,8 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 │   └── prices.csv                 # Beispiel-Daten für KI
 ├── README.md
 └── requirements.txt
+
+## 🌍 Live Demo
+
+👉 [Click here to open the app](https://your-app-name.streamlit.app)
+

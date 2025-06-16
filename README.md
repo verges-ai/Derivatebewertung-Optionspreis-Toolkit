@@ -38,7 +38,12 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 ├── README.md
 └── requirements.txt
 
+
+
+
 ## 🌍 Live Demo
 
 👉 [Click here to open the app](https://your-app-name.streamlit.app)
+
+
 

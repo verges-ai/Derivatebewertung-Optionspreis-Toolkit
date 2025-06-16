@@ -41,13 +41,11 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 ---
 
 
-
-
-
-
 ## 🌍 Live Demo
 
 👉 [Click here to open the app](https://derivatebewertung-optionspreis-toolkit-yrcluupfaztaaxgwudshfu.streamlit.app/)
+
+---
 
 
 

@@ -38,8 +38,8 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 ├── README.md
 └── requirements.txt
 
----
-```bash
+
+
 
 ## 🌍 Live Demo
 

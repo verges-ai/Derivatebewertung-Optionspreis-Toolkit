@@ -46,7 +46,7 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 
 
 
----
+
 
 
 

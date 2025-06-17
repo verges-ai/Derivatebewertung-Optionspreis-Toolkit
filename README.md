@@ -39,7 +39,7 @@ Dieses Projekt kombiniert klassische Finanzmathematik (Black-Scholes-Modell) mit
 └── requirements.txt
 
 ---
-
+```bash
 
 ## 🌍 Live Demo
 
